@@ -240,7 +240,7 @@
 
  		var hexBg;
 		
-		if (temperature < 1) {
+		if (temperature < 3) {
  			hexBg = "040049"
  		}
 
